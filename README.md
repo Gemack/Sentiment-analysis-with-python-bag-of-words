@@ -1,6 +1,6 @@
 ## SENTIMENT ANALYSIS USING  BAG OF WORDS, SIKIT LEARN TFIDFVECTORIZER 
 
-using the Tfidfvectorizer in Sklearn this model classify review in a book review into two category.
+using the Tfidfvectorizer in Sklearn this model classsify reviews in a book review into two category.
 Good or bad.
 
 The TFIDFVECTORIZER which is used in building this model is an algorithm that tranform text into numbers
@@ -11,4 +11,3 @@ alot of preprocessing was done to convert the json file into a desirable pandas 
 and model building. The Data had to be trim to make it balance and prevent bias, various Machine learning
 model was used but the best of them was the SVM.
 
-"# Sentiment-analysis-with-python-bag-of-words" 
